@@ -1,0 +1,7 @@
+aws_region          = "us-east-1"
+project_name        = "iac-test"
+environment         = "prod"
+s3_bucket_name      = "iac-testing-440225444492340"
+lambda_source_dir   = "../lambda"
+frontend_source_dir = "../frontend"
+backend_source_dir  = "../backend"
